@@ -2,7 +2,7 @@
   "name": "tandem-vscode-extension",
   "displayName": "Tandem sync",
   "description": "Synchronizes realtime changes between Tandem and VSCode",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "publisher": "tandemcode",
   "engines": {
     "vscode": "^1.0.0"
@@ -34,7 +34,7 @@
   "dependencies": {
     "@tandem/common": "1.0.x",
     "reflect-metadata": "^0.1.8",
-    "tandem-client": "^1.0.0"
+    "tandem-client": "^1.0.16"
   },
   "author": "",
   "license": "ISC"
