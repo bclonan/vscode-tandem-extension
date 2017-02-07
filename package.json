@@ -3,7 +3,7 @@
   "displayName": "Tandem sync",
   "description": "Synchronizes realtime changes between Tandem and VSCode",
   "version": "0.0.21",
-  "icon": "./assets/logo.png",
+  "icon": "assets/logo.png",
   "publisher": "tandemcode",
   "engines": {
     "vscode": "^1.0.0"
